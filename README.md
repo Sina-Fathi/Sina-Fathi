@@ -1,4 +1,4 @@
-Hello, my name is Sina Fathi,
+Hello, my name is Sina,
 
 Here I engage in practicing my coding and self-improvement in the field of mathematical and computational sciences.
 
